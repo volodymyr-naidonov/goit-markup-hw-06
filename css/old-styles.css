@@ -73,6 +73,7 @@ body {
   display: flex;
   align-items: center;
 }
+
 .page-logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -216,10 +217,9 @@ body {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.order-service-btn:hover,
-.order-service-btn:focus {
-  background-color: #404bbf;
-  color: #ffffff;
+.menu-adress-link:hover,
+.menu-adress-link:focus {
+  color: #404bbf;
 }
 
 .icons-benefits {
